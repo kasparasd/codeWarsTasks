@@ -1,0 +1,25 @@
+{
+  "name": "easytasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "grass": "nodemon ./grasshopperSummation.js",
+    "countPositivesSumNegatives": "nodemon ./countPositivesSumNegatives.js",
+    "betterThanAverage": "nodemon ./betterThanAverage.js",
+    "grasshopper": "nodemon ./grasshopper.js",
+    "convertNumber": "nodemon ./convertNumber.js",
+    "sumOfOddNum": "nodemon ./sumOfOddNum.js",
+    "nextPerfectSquare": "nodemon ./nextPerfectSquare.js",
+    "peopleInBus": "nodemon ./peopleInBus.js",
+    "century": "nodemon ./century.js",
+    "reverseWord": "nodemon ./reverseWord.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kasparas",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
