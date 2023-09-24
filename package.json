@@ -14,6 +14,11 @@
     "peopleInBus": "nodemon ./peopleInBus.js",
     "century": "nodemon ./century.js",
     "reverseWord": "nodemon ./reverseWord.js",
+    "descendingOrder": "nodemon ./descendingOrder.js",
+    "squareDigits": "nodemon ./squareDigits.js",
+    "populationGrowth": "nodemon ./populationGrowth.js",
+    "stringEndsWith": "nodemon ./stringEndsWith.js",
+    "triangle": "nodemon ./triangle.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
