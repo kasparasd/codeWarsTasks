@@ -19,6 +19,13 @@
     "populationGrowth": "nodemon ./populationGrowth.js",
     "stringEndsWith": "nodemon ./stringEndsWith.js",
     "triangle": "nodemon ./triangle.js",
+    "multiplication": "nodemon ./multiplication.js",
+    "sentenceSmash": "nodemon ./sentenceSmash.js",
+    "alphabet": "nodemon ./alphabet.js",
+    "initials": "nodemon ./initials.js",
+    "isograms": "nodemon ./isograms.js",
+    "highLow": "nodemon ./highLow.js",
+    "basic": "nodemon ./basic.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
